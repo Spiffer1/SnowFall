@@ -1,0 +1,4 @@
+# Gitignore for Processing.js projects
+
+# Ignore compiled processing class files
+build-tmp/
