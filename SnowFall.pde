@@ -2,13 +2,9 @@
 private float[] flakeX;
 private float[] flakeY;
 
-void settings()
-{
-  size(500, 500);
-}
-
 void setup() 
 {
+  size(500, 500);
   flakeX = new float[100];
   flakeY = new float[100];
   for (int i = 0; i < 100; i++)
